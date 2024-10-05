@@ -1,0 +1,11 @@
+langchain
+langchain_groq
+python-dotenv
+langchain_core
+streamlit
+validators
+bs4
+requests
+ipykernel
+fastapi
+uvicorn
