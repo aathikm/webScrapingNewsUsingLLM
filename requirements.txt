@@ -10,3 +10,4 @@ requests
 ipykernel
 fastapi
 uvicorn
+apscheduler
