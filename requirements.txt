@@ -1,5 +1,6 @@
 langchain
 langchain_groq
+langchain_community
 python-dotenv
 langchain_core
 streamlit
@@ -9,4 +10,6 @@ requests
 ipykernel
 fastapi
 uvicorn
+apscheduler
+unstructured
 json
