@@ -14,7 +14,7 @@ def create_scraped_news(url_link):
     llm = ChatGroq(model="Gemma-7b-It", groq_api_key=groq_api)
 
     prompt_template = """
-    Providing the title and subtitle and descrition with 100 words:
+    "Provide a detailed description with at least 150 words:"
     Content: {text}
     """
 

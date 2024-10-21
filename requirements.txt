@@ -9,3 +9,4 @@ requests
 ipykernel
 fastapi
 uvicorn
+json
